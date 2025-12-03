@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5041026 */
+  src: url('iconfont.woff2?t=1761624559066') format('woff2'),
+       url('iconfont.woff?t=1761624559066') format('woff'),
+       url('iconfont.ttf?t=1761624559066') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangpin2:before {
+  content: "\e646";
+  color: black;
+}
+
+.icon-baogao-copy:before {
+  content: "\e96b";
+ color: black;
+}
+
+.icon-search:before {
+  content: "\e621";
+}
+
+.icon-user:before {
+  content: "\e6bc";
+}
+
+.icon-shangpin:before {
+  content: "\e661";
+}
+
+.icon-comment:before {
+  content: "\e8e8";
+}
+
+.icon-shiyong:before {
+  content: "\e63e";
+}
+
+.icon-locking:before {
+  content: "\e69e";
+}
+
+.icon-shangpin1:before {
+  content: "\e852";
+}
+
+.icon-baogao:before {
+  content: "\e62d";
+  color: black;
+}
+
+.icon-thumbs-up:before {
+  content: "\e969";
+}
+
+.icon-shangpin1-copy:before {
+  content: "\e96a";
+}
+

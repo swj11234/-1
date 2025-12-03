@@ -1,0 +1,152 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "主页"
+
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+
+		{
+			"path": "pages/cool/cool",
+			"style": {
+				"navigationBarTitleText": "酷玩"
+			}
+		},
+		{
+			"path": "pages/guide/guide",
+			"style": {
+				"navigationBarTitleText": "导购"
+			}
+		},
+		{
+			"path": "pages/try/try",
+			"style": {
+				"navigationBarTitleText": "试用"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": {
+						"backgroundColor": "#3cc51f",
+						"searchInput": {
+							"autoFocus": true,
+							"align": "left",
+							"borderRadius": "30rpx",
+							"placeholder": "手机/游戏机/关键字",
+							"placeholderColor": "#eee"
+						},
+						"buttons": [{
+							"type": "none",
+							"text": "搜索",
+							"fontSize": "36rpx",
+							"color": "#fff",
+							"fontWeight": "bold"
+							// "float": "left"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path" : "pages/cooldetail/cooldetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "酷玩商品详情"  
+		
+			}
+		},
+		{
+			"path" : "pages/guidedetail/guidedetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "导购详情页"
+			}
+		},
+		{
+			"path" : "pages/trydetail/trydetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "试用商品详情"
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/register/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : "注册",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "/static/home.png",
+				"selectedIconPath": "/static/home_HL.png",
+				"text": "首页"
+			}, {
+				"pagePath": "pages/cool/cool",
+				"iconPath": "/static/cool.png",
+				"selectedIconPath": "/static/cool_HL.png",
+				"text": "酷玩"
+			},
+			{
+				"pagePath": "pages/guide/guide",
+				"iconPath": "/static/guide.png",
+				"selectedIconPath": "/static/guide_HL.png",
+				"text": "导购"
+			}, {
+
+				"pagePath": "pages/try/try",
+				"iconPath": "/static/try.png",
+				"selectedIconPath": "/static/try_HL.png",
+				"text": "试用"
+			}, {
+
+				"pagePath": "pages/mine/mine",
+				"iconPath": "/static/mine.png",
+				"selectedIconPath": "/static/mine_HL .png",
+				"text": "我的"
+			}
+		]
+	}
+
+}

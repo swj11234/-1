@@ -1,0 +1,93 @@
+{
+  "id": "5041026",
+  "name": "jiguo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11239043",
+      "name": "商品",
+      "font_class": "shangpin2",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "45903710",
+      "name": "报告",
+      "font_class": "baogao-copy",
+      "unicode": "e96b",
+      "unicode_decimal": 59755
+    },
+    {
+      "icon_id": "58331",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "880404",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "949570",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6598316",
+      "name": "comment",
+      "font_class": "comment",
+      "unicode": "e8e8",
+      "unicode_decimal": 59624
+    },
+    {
+      "icon_id": "7379429",
+      "name": "试用",
+      "font_class": "shiyong",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "8106266",
+      "name": "locking",
+      "font_class": "locking",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "8288870",
+      "name": "商品",
+      "font_class": "shangpin1",
+      "unicode": "e852",
+      "unicode_decimal": 59474
+    },
+    {
+      "icon_id": "11810655",
+      "name": "报告",
+      "font_class": "baogao",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "42084078",
+      "name": "thumbs-up",
+      "font_class": "thumbs-up",
+      "unicode": "e969",
+      "unicode_decimal": 59753
+    },
+    {
+      "icon_id": "45903707",
+      "name": "商品-copy",
+      "font_class": "shangpin1-copy",
+      "unicode": "e96a",
+      "unicode_decimal": 59754
+    }
+  ]
+}
